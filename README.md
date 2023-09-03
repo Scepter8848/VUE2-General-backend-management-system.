@@ -1,6 +1,8 @@
 #  说明
 这是一个简单的vue2 + vuex + vue router + elementUI + echarts的项目，整个流程一目了然，麻雀虽小，五脏俱全，适合作为入门练习。
 
+权限管理使用到了token、cookie.管理员账号和密码都是 admin  ,子用户账号密码都是 xiaoxiao
+
 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
 
 或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
